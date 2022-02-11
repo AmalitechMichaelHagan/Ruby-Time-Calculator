@@ -1,7 +1,5 @@
 # Ruby Time Calculator
 
-A webpage built with HTML
-
 ## General info
 
  This is a challenge project set as part of the Codecademy Back-End Engineer career path course.
